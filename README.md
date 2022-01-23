@@ -23,7 +23,12 @@ This project is divided in the following key sections:
 		![Screenshot (990)](https://user-images.githubusercontent.com/94194880/150601345-cac56f8c-fc46-4462-a12c-31ec969e041e.png)
 
 5) Run a web app which can show model results in real time
+![Screenshot (993)](https://user-images.githubusercontent.com/94194880/150691537-ccbcf950-456c-4161-8baa-cf752daacdb7.png)
 
+## Web application screenshots
+![newplot](https://user-images.githubusercontent.com/94194880/150691573-2f2299a8-0d05-4d59-906c-ffd0e3a596a3.png)
+
+![newplot (1)](https://user-images.githubusercontent.com/94194880/150691576-2c0e3e20-3f11-41fe-863e-4fb607502380.png)
 
 
 ## Dependencies
